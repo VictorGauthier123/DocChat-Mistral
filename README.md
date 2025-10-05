@@ -7,6 +7,15 @@ DocChat Mistral is a full-stack web application that allows users to ask questio
 
 Exemple with my CV : 
 
+<img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/76f2bebc-bc3c-4179-b8b2-b6c17362454f" />
+
+<img width="1911" height="884" alt="image" src="https://github.com/user-attachments/assets/566100a7-c8f6-4b04-90b2-23e170e0e541" />
+
+<img width="1851" height="885" alt="image" src="https://github.com/user-attachments/assets/30474226-8869-4574-abda-6477561aad3d" />
+
+
+
+
 
 ## Objective
 
@@ -47,7 +56,7 @@ docchat-mistral/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/VictorGauthier123/docchat-mistral.git
+git clone https://github.com/VictorGauthier123/DocChat-Mistral.git
 cd docchat-mistral
 ```
 
