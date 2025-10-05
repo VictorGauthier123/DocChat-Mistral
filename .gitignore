@@ -1,0 +1,73 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+*.log
+
+# ---- FastAPI / Uvicorn ----
+*.db
+*.sqlite3
+data/
+
+# ---- VSCode / IDE ----
+.vscode/
+.idea/
+*.swp
+
+# ---- MacOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---- Node / React ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ---- Build outputs ----
+dist/
+build/
+*.tsbuildinfo
+
+# ---- Vite ----
+.vite/
+*.cache/
+
+# ---- Logs ----
+logs/
+*.log
+log.txt
+
+# ---- Misc ----
+coverage/
+temp/
+tmp/
+
+# ---- Docker ----
+*.pid
+*.sock
+*.tar
+*.lock
+
+# ---- System ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+

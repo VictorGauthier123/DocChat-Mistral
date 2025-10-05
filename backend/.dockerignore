@@ -1,0 +1,26 @@
+# --- Fichiers temporaires Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Environnement virtuel local ---
+.venv/
+
+# --- Fichiers sensibles ---
+.env
+.env.*
+
+# --- Données locales / modèles ---
+data/
+*.db
+*.sqlite3
+
+# --- Fichiers système / IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Tests et caches ---
+pytest_cache/
+.cache/
